@@ -1,0 +1,19 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Bases de datos recursivas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ppjose/BasesDatos.git"
+  },
+  "author": "JI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ppjose/BasesDatos/issues"
+  },
+  "homepage": "https://github.com/Ppjose/BasesDatos#readme"
+}
